@@ -1,5 +1,5 @@
 # rustix
-Eperimenting building a unix kernel in rust
+Experimenting building a unix kernel in rust
 
 I am not qualified to write a kernel but I'm trying anyway.
 
